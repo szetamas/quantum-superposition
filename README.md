@@ -22,6 +22,7 @@ The player and enemy ships automatically fire laser projectiles.<br>
 <br>
 - Lasers travel faster than ships, preventing self-collision during forward movement.<br>
 - The player currently has 4 HP, but the system is scalable and can support higher values or upgrades.<br>
+<br>
 Enemy ships have multiple behaviors depending on their state and environment:<br>
 <br>
 - Standard enemies approach from the top and engage in direct combat.<br>
