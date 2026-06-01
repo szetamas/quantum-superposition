@@ -37,5 +37,5 @@ A notable gameplay effect is the visual density of laser fire:<br>
 <br>
 - When moving forward, laser fire appears more concentrated.<br>
 - When moving backward, laser fires have more spread out.<br>
-- This creates a Doppler-like effect that can potentially be used strategically in gameplay (ex.: in a bossfight).<br>
+- This creates a Doppler-like effect that can potentially be used strategically in gameplay (like in a bossfight).<br>
 
